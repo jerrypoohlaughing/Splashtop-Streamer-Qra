@@ -194,3 +194,6 @@ This repository serves as the official landing page for Splashtop Streamer. The 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Splashtop Streamer today!**
+
+---
+**Last updated:** 2026-11-07 17:53:10 UTC
