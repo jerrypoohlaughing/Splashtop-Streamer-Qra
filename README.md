@@ -196,4 +196,4 @@ This repository serves as the official landing page for Splashtop Streamer. The 
 **Get the most recent version of Splashtop Streamer today!**
 
 ---
-**Last updated:** 2026-11-10 23:50:36 UTC
+**Last updated:** 2026-11-11 03:18:19 UTC
